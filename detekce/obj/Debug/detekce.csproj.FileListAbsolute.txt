@@ -1,0 +1,10 @@
+C:\Users\ja\source\repos\detekce\detekce\bin\Debug\detekce.exe.config
+C:\Users\ja\source\repos\detekce\detekce\bin\Debug\detekce.exe
+C:\Users\ja\source\repos\detekce\detekce\bin\Debug\detekce.pdb
+C:\Users\ja\source\repos\detekce\detekce\obj\Debug\detekce.csproj.AssemblyReference.cache
+C:\Users\ja\source\repos\detekce\detekce\obj\Debug\detekce.Form1.resources
+C:\Users\ja\source\repos\detekce\detekce\obj\Debug\detekce.Properties.Resources.resources
+C:\Users\ja\source\repos\detekce\detekce\obj\Debug\detekce.csproj.GenerateResource.cache
+C:\Users\ja\source\repos\detekce\detekce\obj\Debug\detekce.csproj.CoreCompileInputs.cache
+C:\Users\ja\source\repos\detekce\detekce\obj\Debug\detekce.exe
+C:\Users\ja\source\repos\detekce\detekce\obj\Debug\detekce.pdb
